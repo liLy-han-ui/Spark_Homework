@@ -1,0 +1,225 @@
+File: record_2019-01-01.csv
+Total number of records: 2539592
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 532
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2539060
+
+File: record_2019-01-02.csv
+Total number of records: 2376462
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 535
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2375927
+
+File: record_2019-01-03.csv
+Total number of records: 2293471
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 564
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2292907
+
+File: record_2019-01-04.csv
+Total number of records: 2423842
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 550
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2423292
+
+File: record_2019-01-05.csv
+Total number of records: 2017930
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 514
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2017416
+
+File: record_2019-01-06.csv
+Total number of records: 1948259
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 495
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 1947764
+
+File: record_2019-01-07.csv
+Total number of records: 2257434
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 588
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2256846
+
+File: record_2019-01-08.csv
+Total number of records: 2304828
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 544
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2304284
+
+File: record_2019-01-09.csv
+Total number of records: 2281463
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 601
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2280862
+
+File: record_2019-01-10.csv
+Total number of records: 2317531
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 583
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2316948
+
+File: record_2019-01-11.csv
+Total number of records: 2501860
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 655
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2501205
+
+File: record_2019-01-12.csv
+Total number of records: 2168564
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 506
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2168058
+
+File: record_2019-01-13.csv
+Total number of records: 2063588
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 548
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2063040
+
+File: record_2019-01-14.csv
+Total number of records: 2397167
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 586
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2396581
+
+File: record_2019-01-15.csv
+Total number of records: 2306251
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 561
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2305690
+
+File: record_2019-01-16.csv
+Total number of records: 2417059
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 553
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2416506
+
+File: record_2019-01-17.csv
+Total number of records: 2474773
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 641
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2474132
+
+File: record_2019-01-18.csv
+Total number of records: 2664403
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 781
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2663622
+
+File: record_2019-01-19.csv
+Total number of records: 2209338
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 547
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2208791
+
+File: record_2019-01-20.csv
+Total number of records: 2113641
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 545
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2113096
+
+File: record_2019-01-21.csv
+Total number of records: 2465959
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 545
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2465414
+
+File: record_2019-01-22.csv
+Total number of records: 2476308
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 591
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2475717
+
+File: record_2019-01-23.csv
+Total number of records: 2523962
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 621
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2523341
+
+File: record_2019-01-24.csv
+Total number of records: 2517370
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 658
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2516712
+
+File: record_2019-01-25.csv
+Total number of records: 2576182
+Missing value counts per column:
+[0,0,0,0,0,0,0]
+Number of duplicate records: 712
+Number of abnormal records: 0
+Number of records with time out of expected range: 0
+Final total number of records: 2575470
+

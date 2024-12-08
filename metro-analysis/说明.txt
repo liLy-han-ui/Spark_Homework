@@ -1,0 +1,17 @@
+说明；
+1. 使用kafka消费者和生产者进行处理
+2. 将每分钟的站点数据和线路数据：出站人数，入站人数，总人流量写入了数据表中
+2. 对每分钟的站点数据和地铁数据流量进行可视化处理
+topic：metro-data
+数据表：
+1.create 'metro_line_stats', 'stats'
+2. create 'metro_station_stats', 'stats'
+执行过程：
+sbt "runMain consumer.MetroDataConsumer"
+
+sbt "runMain producer.MetroDataProducer"
+
+
+-------------------------------
+输入数据时按照分钟的批次输入，设置时间间隔。
+处理时采用的kafka消费者逻辑，以提高处理效率。

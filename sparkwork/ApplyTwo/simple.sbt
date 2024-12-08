@@ -1,0 +1,7 @@
+name := "Analysis One"
+version := "1.0"
+scalaVersion := "2.12.17"
+libraryDependencies += "org.apache.spark" %% "spark-core" % "3.4.0"
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.4.0"
+libraryDependencies += "org.jfree" % "jfreechart" % "1.0.19"
+libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.28"
